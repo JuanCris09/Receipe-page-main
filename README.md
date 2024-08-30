@@ -24,8 +24,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]([https://github.com/JuanCris09/Receipe-page-main])
+- Live Site URL: [Add live site URL here]([https://juancris09.github.io/Receipe-page-main/])
 
 ## My process
 
@@ -61,6 +61,6 @@ table{
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Juan Pablo Cristancho]((https://juancris09.github.io/Receipe-page-main/))
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/JuanCris09)
 
